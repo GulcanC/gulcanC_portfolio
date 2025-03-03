@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-   "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "author": "GULCAN COSKUN",
   "license": "ISC",
   "homepage": "https://GulcanC.github.io/gulcanC_portfolio",
   "description": "Portfolio Gulcan Coskun"
+
 }
