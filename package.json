@@ -4,12 +4,12 @@
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
- 
-
   },
   "author": "GULCAN COSKUN",
   "license": "ISC",
   "homepage": "https://GulcanC.github.io/gulcanC_portfolio",
-  "description": "Portfolio Gulcan Coskun"
-
+  "description": "Portfolio Gulcan Coskun",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
